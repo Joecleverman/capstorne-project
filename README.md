@@ -1,6 +1,6 @@
 # Project - Capstorne-Project
 
-![screenshot](image1.png)
+![screenshot](.assets/images/image2.png)
 
 # What it does
 
@@ -23,7 +23,7 @@ Read more about the project detailed description [here](https://www.notion.so/HT
 
 ## Live Demo
 
-[Live Link]()
+[Live Link](https://rawcdn.githack.com/Joecleverman/capstorne-project/eef9643409548e87bd75ac805e45f79fda9a13e0/index.html)
 
 ## Project Presentation
 
