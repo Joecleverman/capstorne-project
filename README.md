@@ -27,7 +27,7 @@ Read more about the project detailed description [here](https://www.notion.so/HT
 
 ## Project Presentation
 
-[Watch video]()
+[Watch video](https://www.loom.com/share/c4dd36b60aa7401d84142641ce696413)
 
 ## 🤝 Contributing
 
