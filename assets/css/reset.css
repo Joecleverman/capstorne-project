@@ -1,0 +1,92 @@
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+  .container {
+    max-width: 1024px;
+  }
+  .logo-title {
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+  }
+  .logo-title h2 {
+    font-size: 800%;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  body {
+    padding: 0;
+    margin: 0;
+  }
+  .logo-title h2 {
+    font-size: 600%;
+  }
+  .nav-part ul {
+    margin-right: 1%;
+  }
+  .nav-part ul li {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  .nav-part ul li .red {
+    background-color: #d35266;
+    color: white;
+    border-radius: 5px;
+    border: #d35266 1px solid;
+  }
+  .nav-part ul li .red i svg path {
+    fill: white;
+  }
+  .nav-part ul li a span {
+    display: inline-block;
+  }
+  .container {
+    max-width: 1024px;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  .contain {
+    width: 1200px;
+    margin: 0 auto;
+  }
+}
+
+@media only screen and (max-width: 1139px) {
+  .contain .social {
+    width: 1000px;
+    display: block;
+  }
+  .social h1 {
+    margin: 0px;
+  }
+}
+
+@media only screen and (max-width: 950px) {
+  .footer .col {
+    width: 33%;
+  }
+  .footer .col h1 {
+    font-size: 14px;
+  }
+  .footer .col ul li {
+    font-size: 13px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .footer .col {
+    width: 50%;
+  }
+  .footer .col h1 {
+    font-size: 14px;
+  }
+  .footer .col ul li {
+    font-size: 13px;
+  }
+}
+
+@media only screen and (max-width: 340px) {
+  .footer .col {
+    width: 100%;
+  }
+}
