@@ -2,10 +2,12 @@
   .container {
     max-width: 1024px;
   }
+
   .logo-title {
     font-family: "Montserrat", sans-serif;
     text-align: center;
   }
+
   .logo-title h2 {
     font-size: 800%;
   }
@@ -16,29 +18,36 @@
     padding: 0;
     margin: 0;
   }
+
   .logo-title h2 {
     font-size: 600%;
   }
+
   .nav-part ul {
     margin-right: 1%;
   }
+
   .nav-part ul li {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
   }
+
   .nav-part ul li .red {
     background-color: #d35266;
     color: white;
     border-radius: 5px;
     border: #d35266 1px solid;
   }
+
   .nav-part ul li .red i svg path {
     fill: white;
   }
+
   .nav-part ul li a span {
     display: inline-block;
   }
+
   .container {
     max-width: 1024px;
   }
@@ -56,8 +65,9 @@
     width: 1000px;
     display: block;
   }
+
   .social h1 {
-    margin: 0px;
+    margin: 0;
   }
 }
 
@@ -65,9 +75,11 @@
   .footer .col {
     width: 33%;
   }
+
   .footer .col h1 {
     font-size: 14px;
   }
+
   .footer .col ul li {
     font-size: 13px;
   }
@@ -77,9 +89,11 @@
   .footer .col {
     width: 50%;
   }
+
   .footer .col h1 {
     font-size: 14px;
   }
+
   .footer .col ul li {
     font-size: 13px;
   }

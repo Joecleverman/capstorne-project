@@ -94,6 +94,12 @@ body {
   padding-right: 5px;
 }
 
+.back-nav a {
+  color: rgba(158, 158, 158, 0.733);
+  background-color: #272727;
+  text-decoration: none;
+}
+
 .nav-part ul li a {
   padding: 6%;
   display: -webkit-box;
@@ -141,15 +147,10 @@ header {
   background-color: #272727;
 }
 
-.back-nav a {
-  color: rgba(158, 158, 158, 0.733);
-  background-color: #272727;
-  text-decoration: none;
-}
-
 main {
   margin-top: 70px;
 }
+
 .content {
   padding-top: 10px;
 }
