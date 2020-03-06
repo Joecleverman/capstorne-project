@@ -1,6 +1,6 @@
 # Project - Capstorne-Project
 
-![screenshot](./image2.png)
+![screenshot](/image2.png)
 
 # What it does
 
