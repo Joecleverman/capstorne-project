@@ -1,11 +1,11 @@
-# Project - Capstorne-Project
+# Project - Capstone-Project
 
-![screenshot](/image2.png)
+![screenshot](assets/images/image2.png)
 
 # What it does
 
-This project is the Capstorne Project of the Main HTML/CSS curriculum at [Microverse](https://www.microverse.org/). It consists of building an online shop
-Read more about the project detailed description [here](https://www.notion.so/HTML-CSS-capstone-project-Online-shop-for-electronics-a3dbffab0c744c33b70001a79876edde).
+This project is the Capstone Project of the Main HTML/CSS curriculum at [Microverse](https://www.microverse.org/). It consists of building an online shop,
+read more about the project detailed description [here](https://www.notion.so/HTML-CSS-capstone-project-Online-shop-for-electronics-a3dbffab0c744c33b70001a79876edde).
 
 ## Project Objectives
 

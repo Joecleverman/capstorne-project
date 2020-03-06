@@ -21,7 +21,7 @@ body {
 }
 
 .logo-title {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Helvetica Neue Light", sans-serif;
   text-align: center;
 }
 
@@ -51,7 +51,7 @@ body {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Helvetica Neue Light", sans-serif;
   width: -webkit-fit-content;
   width: -moz-fit-content;
   width: fit-content;
@@ -76,7 +76,7 @@ body {
   -ms-flex-direction: row;
   flex-direction: row;
   list-style-type: none;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Helvetica Neue Light", sans-serif;
   padding: 0;
   width: -webkit-fit-content;
   width: -moz-fit-content;
@@ -201,7 +201,7 @@ main {
   }
 
   .logo-title {
-    font-family: "Montserrat", sans-serif;
+    font-family: "Helvetica Neue Light", sans-serif;
     text-align: center;
   }
 }
@@ -334,7 +334,7 @@ article {
   justify-content: center;
   text-transform: uppercase;
   font-weight: bold;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Helvetica Neue Light", sans-serif;
   border-radius: 5px;
   color: #d35266;
   background-color: #383838;
@@ -360,7 +360,7 @@ article {
   background-color: white;
   padding: 2%;
   padding-left: 10%;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Helvetica Neue Light", sans-serif;
   text-transform: uppercase;
   font-weight: bold;
 }
@@ -386,7 +386,7 @@ article {
 
 .description {
   padding: 8% 2%;
-  font-family: "Roboto", sans-serif;
+  font-family: "Helvetica Neue Medium", sans-serif;
   color: #383838;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -490,7 +490,7 @@ section > .container {
 }
 
 .product > :last-child {
-  font-family: "Roboto", sans-serif;
+  font-family: "Helvetica Neue Medium", sans-serif;
   padding: 5%;
 }
 
