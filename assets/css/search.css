@@ -568,6 +568,10 @@ section > .container {
   font-weight: 400;
 }
 
+h2.result-1 {
+  text-align: center;
+}
+
 .product > :last-child > :last-child a {
   display: -webkit-box;
   display: -ms-flexbox;
