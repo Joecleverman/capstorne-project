@@ -1,6 +1,6 @@
 # Project - Capstone-Project
 
-![screenshot](assets/images/image2.png)
+![screenshot](assets/images/image3.png)
 
 # What it does
 
